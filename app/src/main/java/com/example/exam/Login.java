@@ -27,5 +27,9 @@ public class Login extends AppCompatActivity {
             Intent i1 = new Intent(Login.this, Data.class);
             startActivity(i1);
         });
+
+        btnLogin.setOnClickListener(v-> {
+
+        });
     }
 }

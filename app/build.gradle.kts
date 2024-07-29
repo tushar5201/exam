@@ -39,5 +39,9 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
 
 //    Add dependency here
+
     implementation("com.android.volley:volley:1.2.1")
+    implementation ("com.firebaseui:firebase-ui-database:8.0.2")
+
+
 }
